@@ -178,7 +178,7 @@ body {
 
 /* 마우스 호버(터치) 시 효과 */
 .feed-list-item a:hover {
-    background-color: #f7a0b4; /* 부드러운 라벤더 톤으로 강조 */
+    background-color: #ffe4ea; /* 부드러운 라벤더 톤으로 강조 */
     transform: translateY(-2px); /* 살짝 위로 떠오르는 모던한 효과 */
 }
 
